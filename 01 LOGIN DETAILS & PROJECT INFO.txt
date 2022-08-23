@@ -1,0 +1,19 @@
+**Database Name: simplepharmacy**
+
+**Developed by PREAM KUMAR**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Login Details**
+
+Username: admin
+Password: codeastro.com
+
+
+**All the downloaded invoices(pdf) are stored under the directory " C:/invoices/ "**
+
+**All the downloaded invoices(pdf) are stored under the directory " C:/invoices/ "**
+
+
+
